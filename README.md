@@ -3,7 +3,10 @@
 ![Coverage](.github/badges/coverage.svg)
 ![Tests](https://github.com/UofT-CSC490-F2025/turtleneck/actions/workflows/test.yml/badge.svg?branch=hybrid-pipeline)
 
-ArXplorer is a production-ready academic paper retrieval system combining **Milvus vector database** with **multi-stage hybrid search** (dense + sparse vectors), **LLM-based query analysis**, **intent-aware boosting**, and **advanced reranking**.
+ArXplorer is a production-ready academic papers retrieval system combining leveraging State of the art Machine Learning technology.
+
+## Problem
+Current academic libraries' search engine heavily relies on lexical-matching (keyword-matching). This poses a problem when users don't know the technical terms, or when the query get semantically complicated (eg. "original u-net paper", what does "original" even mean.) We built ArXplorer, which can process semantically complicated queries and return relevant results to users, without sacrificing the lexical matching of traditional approach.
 
 ## Table of Contents
 
