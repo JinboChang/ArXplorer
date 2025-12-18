@@ -44,7 +44,8 @@ Try searching Google Scholar or arXiv for:
 
 ## 🎬 See It In Action
 
-[Placeholder for demo GIF/screenshot - to be added later]
+https://github.com/user-attachments/assets/493ba3ac-6f56-4790-b3b9-c653dd287120
+
 
 ### Example Queries
 
